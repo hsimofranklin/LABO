@@ -1,0 +1,10 @@
+<aspectj>
+<aspects>
+<aspect name="com.hospital.medical.domain.LaboTrace_Roo_JavaBean"/>
+<aspect name="com.hospital.medical.domain.Societe_Roo_ToString"/>
+<aspect name="com.hospital.medical.domain.Societe_Roo_JavaBean"/>
+<aspect name="com.hospital.medical.domain.Societe_Roo_Entity"/>
+<aspect name="com.hospital.medical.domain.LaboTrace_Roo_Entity"/>
+</aspects>
+</aspectj>
+

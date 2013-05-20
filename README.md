@@ -1,4 +1,0 @@
-LABO
-====
-
-Gestion des laboratoires
